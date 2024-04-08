@@ -9,7 +9,7 @@ To write a python program to find the inverse of a matrix
 ### Step 2:  Define the given matrix A
 ### Step 3:  Compute the inverse of matrix A using np.linalg.inv()
 ### Step 4:  print and end the program
-# Question:write a python program to find the inverse of the given matrix
+# Question:
 ![Screenshot 2024-04-08 154139 (3)](https://github.com/kavipriyasp07/INVERSE-OF-A-MATRIX/assets/155508590/71783165-702e-4b79-b8a2-c710a85d6249)
 
 
