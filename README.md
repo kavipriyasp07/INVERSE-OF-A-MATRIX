@@ -9,10 +9,10 @@ To write a python program to find the inverse of a matrix
 ### Step 2:  Define the given matrix A
 ### Step 3:  Compute the inverse of matrix A using np.linalg.inv()
 ### Step 4:  print and end the program
-# Question:#write a python program to find the inverse of the given matrix
-##[6 2 3]
-#[3 1 1]
-#[10 3 4]
+# Question:write a python program to find the inverse of the given matrix
+[6 2 3]
+[3 1 1]
+[10 3 4]
 
 ## Program:
 ```
